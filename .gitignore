@@ -7,6 +7,10 @@ target
 contracts/predictify-hybrid/test_snapshots
 
 # Environment variables (never commit secrets!)
-.env
-.env.*
 *.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
